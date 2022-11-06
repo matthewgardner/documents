@@ -4,7 +4,7 @@ status: Proposed
 date: 2023-11-05
 deciders: Coaches 
 consulted: Parents
-informed: Players ;)
+informed: Players
 ---
 # Investment in additional technology, or wearables, to assist coaching and player development.
 
@@ -46,12 +46,6 @@ Recommended option: "Foot Wearable", because:
 - it is built for football
 - it is the cheapest (and players parents are the main source of income)
 
-### Consequences
-
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-* … <!-- numbers of consequences can vary -->
-
 ## Pros and Cons of the Options
 
 ### Vest with GPS tracker
@@ -70,9 +64,8 @@ These devices track distance covered over time, which allow the coaches to view 
 
 Source: https://statsports.com/support/getting-started/general
 
-
-StatSport costs £200 but has no subscription costs.
-Catapult cost £159 has a subscription cost of around 
+StatSport costs £200 and has no subscription costs.
+Catapult cost £159 but has a subscription cost of around £80 (based on price comparison of 12-24 months with device).
 
 #### Good vs Bad
 
@@ -106,7 +99,7 @@ See GPS. With additional points below
 * Bad, because it's additional cost
 
 StatSport costs £220 but has no subscription costs.
-Catapult PlayerTek supports this but prices arent listed (expected to be £250 is based on US costs) - this also has an additional subscription cost.
+Catapult PlayerTek supports this but prices aren't listed (expected to be £250 is based on US costs) - this also has an additional subscription cost (also not known).
 
 ### Foot Wearable
 
@@ -140,7 +133,7 @@ These devices essentially record foot impact giving coaches the following inform
 * Bad, because cannot record pitch location
 * Bad, because when they can fall out, we will all be roooting around the mud looking for the sensor
 
-Cost is expected to be a one off of £150 (£167 at sports direct). That includes a one year subscription, on going subscription cost isn't known at this time.
+Cost is expected to be £150 (£167 at sports direct). That includes a one year subscription, on going subscription cost isn't known at this time.
 
 ## More Information
 
